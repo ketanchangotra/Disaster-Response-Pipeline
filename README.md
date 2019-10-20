@@ -27,7 +27,7 @@ App Front Page:
 
 Result Output:
 
-![Output](https://github.com/ketanchangotra/Disaster-Response-Pipeline/blob/master/app/snapshot2.PNG)
+![Output](https://github.com/ketanchangotra/Disaster-Response-Pipeline/blob/master/app/snapshot4.PNG)
 
 
 This project is prepared as part of the Udacity Data Scientist Nanodegree programme
